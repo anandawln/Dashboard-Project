@@ -5,4 +5,9 @@ This repository showcases a collection of data visualization projects created us
 
 ## Content Link
 [Cafe Sales Dashboard with Looker Studio](https://lookerstudio.google.com/reporting/d6db8e08-f98b-45b6-8786-c9ca5f77a804)  
+
+<div align="center">
+<img width = "80%" src = "https://github.com/anandawln/Dashboard-Project/blob/main/assets/cafe_sales.png">
+</div>
+
 [Business Intelligence Bank Muamalat with Looker Studio](https://lookerstudio.google.com/reporting/04344c71-c213-4619-9010-458f4ae8c6bb)
